@@ -1,0 +1,23 @@
+
+{
+  "status":"abcdef",
+  "1000":{"Name":"Anuj",
+            "Age":21,
+            "AccType":"Saving",
+            "Saving":[{"Actual Balance":1000,"Withdrawal Balance":200}]
+
+  },
+
+
+  "articles": [
+    {
+      "author": 100,
+      "title": "abc"
+    },
+    {
+      "author": 200,
+      "title": "xyz"
+    }
+
+  ]
+}

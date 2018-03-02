@@ -1,0 +1,31 @@
+{
+  "status": "ok",
+  "source": "the-times-of-india",
+  "sortBy": "top",
+  "articles": [
+    {
+      "author": null,
+      "title": "Q3 GDP grows fastest in 2017-18 at 7.2% - Times of India",
+      "description": "India Business News: NEW DELHI: The Gross Domestic Product (GDP) growth rate for the third quarter (October-December) of the current fiscal stood at 7.",
+      "url": "http://timesofindia.indiatimes.com/business/india-business/q3-gdp-grows-fastest-in-2017-18-at-7-2/articleshow/63112582.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-63112582/63112582.jpg?130622",
+      "publishedAt": "2018-02-28T06:41:54Z"
+    },
+    {
+      "author": null,
+      "title": "State honours at Sridevi's funeral, thousands mourn her - Times of India ►",
+      "description": "The Maharashtra government has decided to accord actress Sridevi full state honours at her funeral scheduled later on Wednesday afternoon, official so.",
+      "url": "http://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sridevi-funeral-veteran-actress-given-state-honours/articleshow/63109807.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-63109838/63109838.jpg?61999",
+      "publishedAt": "2018-02-28T05:04:47Z"
+    },
+    {
+      "author": null,
+      "title": "30 rapes, 15 murders, 2 escapes, ‘Psycho Shankar’ terror reign ends - Times of India",
+      "description": "Serial rapist and murderer M Jaishankar, who was involved in more than 30 rape cases and about 15 murders in Tamil Nadu and Karnataka, committed suici",
+      "url": "http://timesofindia.indiatimes.com/city/salem/30-rapes-15-murders-2-escapes-psycho-shankar-terror-reign-ends/articleshow/63104820.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-63109136/63109136.jpg?243805",
+      "publishedAt": "2018-02-28T02:54:46Z"
+    }
+  ]
+}
